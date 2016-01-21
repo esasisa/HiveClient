@@ -2,9 +2,10 @@
 Remote Java client to access Hive UDF 
 
 Steps to run the HiveClient.java on remote machine.
+
     1- Copy this java file into eclipse and edit the package structure as you required.
     2- Add following jars into class path
-          commons-logging-1.1.3.jar
+          	commons-logging-1.1.3.jar
 	        hive-jdbc-0.13.1.2.1.15.0-946.jar
         	hive-service-0.13.1.2.1.15.0-946.jar
         	libfb303-0.9.0.jar
